@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reacttypinggame/static/css/main.21e51401.css",
+    "main.js": "/reacttypinggame/static/js/main.0eb3c0c5.js",
+    "index.html": "/reacttypinggame/index.html",
+    "main.21e51401.css.map": "/reacttypinggame/static/css/main.21e51401.css.map",
+    "main.0eb3c0c5.js.map": "/reacttypinggame/static/js/main.0eb3c0c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21e51401.css",
+    "static/js/main.0eb3c0c5.js"
+  ]
+}
